@@ -104,4 +104,10 @@ Esto es otro dividido por guiones bajos.
 
 ___
 
+# Saltos de linea
+Esto es el primer párrafo
 
+Esto es el segundo párrafo
+Este es el tercer párrafo sin salto de línea
+
+Este es el cuarto párrafo con salto de línea.
